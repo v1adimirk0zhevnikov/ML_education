@@ -1,0 +1,3 @@
+#Info for task 2:
+1) At first task are was derivative by diffirient ways:
+First classical way and second df(h) = f(x+h)-f(x-h)
